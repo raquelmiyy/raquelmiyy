@@ -1,5 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
 
+<!--  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=0gt0032wchqzhk6w55yzrsqui&count=2) -->
+
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=raquelmiyy&show_icons=true&count_private=true&hide_border=true&title_color=FF0000&icon_color=FF0000&text_color=c9d1d9&bg_color=0d1117" alt="Raquel Vitoria github stats" /> 
